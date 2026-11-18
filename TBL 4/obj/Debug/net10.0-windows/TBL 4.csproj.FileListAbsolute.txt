@@ -1,0 +1,23 @@
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\bin\Debug\net10.0-windows\TBL 4.exe
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\bin\Debug\net10.0-windows\TBL 4.deps.json
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\bin\Debug\net10.0-windows\TBL 4.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\bin\Debug\net10.0-windows\TBL 4.dll
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\bin\Debug\net10.0-windows\TBL 4.pdb
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Form1.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Form2.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Properties.Resources.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.csproj.GenerateResource.cache
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.dll
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\refint\TBL 4.dll
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.pdb
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL 4.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\ref\TBL 4.dll
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Form3.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Form4.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Formprodutos.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Formrelatorio.resources
+C:\Users\paulo\OneDrive\Desktop\TBL 4\TBL 4\obj\Debug\net10.0-windows\TBL_4.Formvendas.resources
